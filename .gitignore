@@ -1,0 +1,4 @@
+# Project exclude paths
+/hbase/target/
+/hdfs/target/
+/mr/target/
